@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Lakshay Aggarwal
 
 ## 🚀 About Me
-I'm an **Electronics and Communication Engineering student** at **NSUT Delhi** with a passion for **Django backend development, programming, and robotics**. I love building scalable web applications and have developed multiple projects, including a **CRM system, a full-stack website using Django and Bootstrap, and a web-based SaaS platform**.
+I'm an **Electronics and Communication Engineering student** at **NSUT Delhi** with a passion for **Django backend development, programming, and robotics**. I love building scalable web applications and have developed multiple projects, including a **CRM system, a full-stack website using Django and Bootstrap, and a Automated Certificate Submission & Verification System**.
 
 ## 💻 Tech Stack
 - **Languages**: Python, C++, JavaScript
