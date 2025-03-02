@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lakshay Aggarwal
 
-<!--
-**lakshaycodes/lakshaycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an **Electronics and Communication Engineering student** at **NSUT Delhi** with a passion for **Django backend development, programming, and robotics**. I love building scalable web applications and have developed multiple projects, including a **CRM system, a full-stack website using Django and Bootstrap, and a web-based SaaS platform**.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages**: Python, C++, JavaScript
+- **Backend**: Django, Django Rest Framework (DRF)
+- **Frontend**: HTML, CSS, Bootstrap
+- **Database**: PostgreSQL, SQLite
+- **Other Tools**: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+- Backend Development 🖥️
+- Robotics & Embedded Systems 🤖
+- Music 🎵 
+
+## 📫 Let's Connect!
+- **GitHub**: [https://github.com/lakshaycodes](https://github.com/lakshaycodes)
+- **LinkedIn**: [https://linkedin.com/in/lakshayyaggarwall](https://linkedin.com/in/lakshayyaggarwall)
+- **Email**: [lakshayyaggarwwall@gmail.com](mailto:lakshayyaggarwall@gmail.com)
+
