@@ -7,7 +7,7 @@ I'm an **Electronics and Communication Engineering student** at **NSUT Delhi** w
 - **Languages**: Python, C++, JavaScript
 - **Backend**: Django, Django Rest Framework (DRF)
 - **Frontend**: HTML, CSS, Bootstrap
-- **Database**: PostgreSQL, SQLite
+- **Database**: MySQL, SQLite
 - **Other Tools**: Git, Docker
 
 ## 🔍 Interests
